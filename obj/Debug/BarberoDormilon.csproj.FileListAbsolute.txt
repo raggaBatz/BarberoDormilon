@@ -1,0 +1,9 @@
+C:\git\BarberoDormilon\bin\Debug\BarberoDormilon.exe
+C:\git\BarberoDormilon\bin\Debug\BarberoDormilon.pdb
+C:\git\BarberoDormilon\obj\Debug\BarberoDormilon.csprojAssemblyReference.cache
+C:\git\BarberoDormilon\obj\Debug\BarberoDormilon.Form1.resources
+C:\git\BarberoDormilon\obj\Debug\BarberoDormilon.Properties.Resources.resources
+C:\git\BarberoDormilon\obj\Debug\BarberoDormilon.csproj.GenerateResource.cache
+C:\git\BarberoDormilon\obj\Debug\BarberoDormilon.csproj.CoreCompileInputs.cache
+C:\git\BarberoDormilon\obj\Debug\BarberoDormilon.exe
+C:\git\BarberoDormilon\obj\Debug\BarberoDormilon.pdb
